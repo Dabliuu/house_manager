@@ -1,0 +1,30 @@
+ TIEMPOS:
+
+ 1 NOV:
+    
+    Es importante comprar los sigientes electrodomesticos con ahorro energetico
+    de la siguiente forma:
+
+        lavadora (para cargas de 2.5kg, inverter) 
+        aire acondicionado ()
+        microondas (tamaño es importante esperar pregunta)
+
+
+
+ 17-18 NOV:
+ 30 - 1 DIC:
+ 
+
+
+
+
+
+     Ing. y contruccion: 1 
+    Eficiencia: 5
+    Balance: 5
+    Confort: 5
+    Innovacion: 3
+    Arquitectura: 0.5
+    Urbanismo: 1 (imagen grafica de como esta comprendida la smart grid, con la parla del proyecto entero)
+    Funcionamiento de la casa: 4.5
+    Sostenibilidad: 2

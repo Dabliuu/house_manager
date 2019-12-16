@@ -1,0 +1,26 @@
+1. Pagina 58 "Sub-Contest 4.1: Net Zero Energy balance", 
+en la figura "Scoring function for the Energy Balance Sub contest" 
+los limites estan mal.
+
+2 El tamaño de la jarra para la prueba del calentamiento del microondas 
+para saber el tamaño del microondas
+
+3 Pagina 69 la grafica de evaporacion no tiene un limite logico 
+(el maximo debe ser el tamaño total del agua)
+
+4 pagina 70 sub contest Watter balance (debe cambiarse el nombre a 
+watter consumption porque no hay generacion de agua). Recomendación:
+poner una gráfica como la que se utilizo en el apartado de "consumo eléctrico"
+
+
+
+- madera plastica exterior
+- madera de pino recuperable
+- cubierta m teechno en alunino y acero exterior
+- foil de alumino
+- estrutura metalica en acero
+- tuberia emt
+- panel drywall
+- vidrio
+- paneles solares 
+
