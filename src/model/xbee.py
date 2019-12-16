@@ -17,6 +17,8 @@ import time
 
 import concurrent.futures
 
+# dafo tienes que trabajar mas para que no te vaya mal en la tesis
+
 # indentify the comport that has the usb to rs485 converter:
 def get_com_port():
     
